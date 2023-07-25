@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" align="center" width="40%" height="40%"/> </p>
+<p align="center"> <img src="https://pngimg.com/uploads/github/github_PNG84.png" alt="github" align="center" width="40%" height="40%"/> </p>
 
 <h3 align="center">Graduate Research Assistant at VMASC 🇺🇸 </br>
   Modeling and Simulation M.S. Student at ODU 🇺🇸</br>
