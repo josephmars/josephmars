@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="github_logo_colombia.png" alt="github" align="center" width="25%" height="25%"/> </p>
 
-<h3 align="center">Graduate Research Assistant at VMASC 🇺🇸 </br>
+
+<h3 >Graduate Research Assistant at VMASC 🇺🇸 </br>
   Modeling and Simulation M.Sc. Student at ODU 🇺🇸</br>
 </h3>
 
