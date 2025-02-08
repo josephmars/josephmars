@@ -1,7 +1,7 @@
 Hi 👋, I'm Joseph!  
   
 I’m a data scientist who loves turning messy datasets into beautiful visualizations and training stubborn models. I am focused on creating GenAI implementations for everyone!  
-When I’m not coding, you’ll find me watching movies religiously 🎥, at the gym, or reading📚 whatever my Fable tells me to.
+When I’m not coding, you’ll find me watching movies religiously 🎥, at the gym, or reading📚 whatever is in my Fable read list.
 
 Let’s connect! Here is my [LinkedIn](https://www.linkedin.com/in/josephmars/).
 
